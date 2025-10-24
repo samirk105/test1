@@ -1,2 +1,4 @@
 hello this is for git test
 this is github demo
+today's changes in git hub on 15 october 2025
+we use reset command 
